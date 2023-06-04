@@ -22,9 +22,9 @@ The CO2 Emissions Prediction Project aims to develop a predictive model for esti
    git clone [https://github.com/your-username/co2-emissions-prediction.git](https://github.com/justA-Noobdev/CO2-emissions-using-Liner-Regression.git)
    ```
 2. Install the required libraries:
-  ```bash
-  pip install matplotlib scikit-learn pandas numpy ipython jupyter
-  ```
+   ```bash
+   pip install matplotlib scikit-learn pandas numpy ipython jupyter
+   ```
 
 ## Usage
 
